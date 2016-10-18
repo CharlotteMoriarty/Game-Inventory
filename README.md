@@ -5,7 +5,11 @@ This is for a fantasy video game. The data structure to model the player’s inv
 
 Functions:
 	- Display inventory
+
 	- Add to inventory from a list
+	
 	- Display formatted inventory in descending or ascending order
+	
 	- Import inventory from an external csv file
+	
 	- Export inventory to a file
